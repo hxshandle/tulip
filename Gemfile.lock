@@ -1,5 +1,5 @@
 GEM
-  remote: https://rubygems.org/
+  remote: http://ruby.taobao.org/
   specs:
     actionmailer (3.2.12)
       actionpack (= 3.2.12)
@@ -174,7 +174,6 @@ DEPENDENCIES
   bootstrap-will_paginate
   carrierwave
   chosen-rails
-  coffee-rails (~> 3.2.1)
   compass-rails
   country_select
   devise

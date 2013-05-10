@@ -7,3 +7,216 @@ Connecting to database specified by database.yml
   [1m[36m (116.9ms)[0m  [1mCREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")[0m
   [1m[35m (1.1ms)[0m  SELECT "schema_migrations"."version" FROM "schema_migrations" 
 Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+
+
+Started GET "/" for 127.0.0.1 at 2013-05-10 11:04:26 +0800
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (3.1ms)
+Compiled chosen.css  (156ms)  (pid 9280)
+Compiled application.css  (3632ms)  (pid 9280)
+Compiled jquery.js  (1ms)  (pid 9280)
+Compiled jquery_ujs.js  (0ms)  (pid 9280)
+Compiled init.js  (0ms)  (pid 9280)
+Compiled bootstrap-modal.js  (0ms)  (pid 9280)
+Compiled bootstrap-dropdown.js  (0ms)  (pid 9280)
+Compiled bootstrap-scrollspy.js  (0ms)  (pid 9280)
+Compiled bootstrap-tab.js  (0ms)  (pid 9280)
+Compiled bootstrap-tooltip.js  (0ms)  (pid 9280)
+Compiled bootstrap-popover.js  (0ms)  (pid 9280)
+Compiled bootstrap-alert.js  (0ms)  (pid 9280)
+Compiled bootstrap-button.js  (0ms)  (pid 9280)
+Compiled bootstrap-collapse.js  (0ms)  (pid 9280)
+Compiled bootstrap-carousel.js  (0ms)  (pid 9280)
+Compiled bootstrap-typeahead.js  (0ms)  (pid 9280)
+Compiled gritter.js  (0ms)  (pid 9280)
+Compiled lib/abstract-chosen.js  (139ms)  (pid 9280)
+Compiled lib/select-parser.js  (13ms)  (pid 9280)
+Compiled chosen.jquery.js  (174ms)  (pid 9280)
+Compiled chosen-jquery.js  (367ms)  (pid 9280)
+Compiled application.js  (539ms)  (pid 9280)
+Completed 200 OK in 4285ms (Views: 4284.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-10 11:04:30 +0800
+Served asset /application.css - 200 OK (34ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-10 11:04:30 +0800
+Served asset /jquery.js - 200 OK (3ms)
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 127.0.0.1 at 2013-05-10 11:04:30 +0800
+Served asset /bootstrap-modal.js - 200 OK (2ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-05-10 11:04:30 +0800
+Served asset /jquery_ujs.js - 200 OK (2ms)
+
+
+Started GET "/assets/init.js?body=1" for 127.0.0.1 at 2013-05-10 11:04:30 +0800
+Served asset /init.js - 200 OK (1ms)
+
+
+Started GET "/assets/chosen.css?body=1" for 127.0.0.1 at 2013-05-10 11:04:30 +0800
+Served asset /chosen.css - 200 OK (2ms)
+
+
+Started GET "/assets/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2013-05-10 11:04:30 +0800
+Served asset /bootstrap-dropdown.js - 200 OK (2ms)
+
+
+Started GET "/assets/bootstrap-tab.js?body=1" for 127.0.0.1 at 2013-05-10 11:04:30 +0800
+Served asset /bootstrap-tab.js - 200 OK (2ms)
+
+
+Started GET "/assets/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2013-05-10 11:04:30 +0800
+Served asset /bootstrap-scrollspy.js - 200 OK (2ms)
+
+
+Started GET "/assets/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2013-05-10 11:04:30 +0800
+Served asset /bootstrap-tooltip.js - 200 OK (2ms)
+
+
+Started GET "/assets/bootstrap-popover.js?body=1" for 127.0.0.1 at 2013-05-10 11:04:30 +0800
+Served asset /bootstrap-popover.js - 200 OK (2ms)
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 127.0.0.1 at 2013-05-10 11:04:30 +0800
+Served asset /bootstrap-button.js - 200 OK (2ms)
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 127.0.0.1 at 2013-05-10 11:04:30 +0800
+Served asset /bootstrap-alert.js - 200 OK (2ms)
+
+
+Started GET "/assets/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2013-05-10 11:04:30 +0800
+Served asset /bootstrap-carousel.js - 200 OK (2ms)
+
+
+Started GET "/assets/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2013-05-10 11:04:30 +0800
+Served asset /bootstrap-collapse.js - 200 OK (2ms)
+
+
+Started GET "/assets/gritter.js?body=1" for 127.0.0.1 at 2013-05-10 11:04:30 +0800
+Served asset /gritter.js - 200 OK (4ms)
+
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2013-05-10 11:04:30 +0800
+Served asset /bootstrap-typeahead.js - 200 OK (2ms)
+
+
+Started GET "/assets/lib/abstract-chosen.js?body=1" for 127.0.0.1 at 2013-05-10 11:04:30 +0800
+Served asset /lib/abstract-chosen.js - 200 OK (3ms)
+
+
+Started GET "/assets/lib/select-parser.js?body=1" for 127.0.0.1 at 2013-05-10 11:04:30 +0800
+Served asset /lib/select-parser.js - 200 OK (1ms)
+
+
+Started GET "/assets/chosen.jquery.js?body=1" for 127.0.0.1 at 2013-05-10 11:04:30 +0800
+Served asset /chosen.jquery.js - 200 OK (1ms)
+
+
+Started GET "/assets/chosen-jquery.js?body=1" for 127.0.0.1 at 2013-05-10 11:04:30 +0800
+Served asset /chosen-jquery.js - 200 OK (4ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-10 11:04:30 +0800
+Served asset /application.js - 200 OK (40ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-05-10 11:14:29 +0800
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (1.1ms)
+Completed 200 OK in 11ms (Views: 10.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/chosen.css?body=1" for 127.0.0.1 at 2013-05-10 11:14:29 +0800
+Served asset /chosen.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-05-10 11:14:29 +0800
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-05-10 11:14:29 +0800
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-05-10 11:14:29 +0800
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 127.0.0.1 at 2013-05-10 11:14:29 +0800
+Served asset /bootstrap-modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/init.js?body=1" for 127.0.0.1 at 2013-05-10 11:14:29 +0800
+Served asset /init.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2013-05-10 11:14:29 +0800
+Served asset /bootstrap-tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2013-05-10 11:14:29 +0800
+Served asset /bootstrap-dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-popover.js?body=1" for 127.0.0.1 at 2013-05-10 11:14:29 +0800
+Served asset /bootstrap-popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2013-05-10 11:14:29 +0800
+Served asset /bootstrap-scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 127.0.0.1 at 2013-05-10 11:14:29 +0800
+Served asset /bootstrap-alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-tab.js?body=1" for 127.0.0.1 at 2013-05-10 11:14:29 +0800
+Served asset /bootstrap-tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2013-05-10 11:14:29 +0800
+Served asset /bootstrap-carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2013-05-10 11:14:29 +0800
+Served asset /bootstrap-collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 127.0.0.1 at 2013-05-10 11:14:29 +0800
+Served asset /bootstrap-button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/gritter.js?body=1" for 127.0.0.1 at 2013-05-10 11:14:29 +0800
+Served asset /gritter.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2013-05-10 11:14:29 +0800
+Served asset /bootstrap-typeahead.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/lib/abstract-chosen.js?body=1" for 127.0.0.1 at 2013-05-10 11:14:29 +0800
+Served asset /lib/abstract-chosen.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/lib/select-parser.js?body=1" for 127.0.0.1 at 2013-05-10 11:14:29 +0800
+Served asset /lib/select-parser.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/chosen.jquery.js?body=1" for 127.0.0.1 at 2013-05-10 11:14:29 +0800
+Served asset /chosen.jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/chosen-jquery.js?body=1" for 127.0.0.1 at 2013-05-10 11:14:29 +0800
+Served asset /chosen-jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-05-10 11:14:29 +0800
+Served asset /application.js - 304 Not Modified (0ms)
