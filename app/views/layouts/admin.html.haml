@@ -8,4 +8,9 @@
 
   %body{:class => controller_name}
     .container
-      = yield
+      .row
+        .span3
+          = render 'layouts/sidebar'
+        / admin Layout
+        .span9
+          = yield
